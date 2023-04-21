@@ -30,4 +30,9 @@ clarity  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, V
 ## Models Used ##
 ## Conclusion ##
 ## Contributors ##
+| Name              |                     Area of Focus                     |
+|---|:---:|---|
+| Beh Jia Jiunn |       |      
+|   |       |
+|  ||
 ## References ##

@@ -29,6 +29,7 @@ clarity  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, V
  z  : depth in mm
 ## Models Used ##
 ## Conclusion ##
+## What did we learn? ##
 ## Contributors ##
 | Name              |                     Area of Focus                     |
 |---|:---:|

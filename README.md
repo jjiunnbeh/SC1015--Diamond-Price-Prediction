@@ -1,4 +1,4 @@
-# SC1015
+# SC1015 Mini Project : Predicting the price of diamond
 
 ## Predicitng Price of Diamond prices for general public looking to buy diamonds ## 
 In general, people have limited knowledge about the prices of diamonds and diamond sellers capitalize on this by selling diamonds with unfair prices. 

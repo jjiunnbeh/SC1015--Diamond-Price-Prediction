@@ -34,6 +34,6 @@ clarity  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, V
 | Name              |                    Contributions                     |
 |---|:---:|
 | Beh Jia Jiunn |  contributions|      
-|  name |   contributions |
+|  Tan Wu Ji |   contributions |
 | name |  contributions|
 ## References ##

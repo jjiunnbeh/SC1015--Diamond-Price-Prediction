@@ -52,9 +52,9 @@ For the future improvement, exploration of more hyperparameters in the regressio
 ## Contributors ##
 | Name              |                    Contributions                     |
 |---|:---:|
-|Selvakumar Karthik Adharsh | Label Encoding,Linear and Random Forest Regression |
-| Beh Jia Jiunn | Data Cleaning |      
-|  Tan Wu Ji |   XGBOOST Regression |
+|Selvakumar Karthik Adharsh | Label Encoding,Linear and Random Forest Regression, Presentation Slides, Video Presentation |
+| Beh Jia Jiunn | Data Preparation, Exploratory Data Analysis, Presentation Slides, Video Presentation, |      
+|  Tan Wu Ji |   XGBOOST Regression, Presentation Slides, Video Presentation |
 
 ## References ##
 1. https://www.geeksforgeeks.org/xgboost/?ref=rp

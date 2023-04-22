@@ -46,8 +46,8 @@ For the future improvement, exploration of more hyperparameters in the regressio
 ## Contributors ##
 | Name              |                    Contributions                     |
 |---|:---:|
-| Beh Jia Jiunn |  EDA|      
-|  Tan Wu Ji |   XGBOOST Regression |
+| Beh Jia Jiunn | Data Cleaning, EDA|      
+|  Tan Wu Ji |   XGBOOST Regression, Prediction |
 | name |  contributions|
 ## References ##
 1. https://www.geeksforgeeks.org/xgboost/?ref=rp

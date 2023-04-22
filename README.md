@@ -47,7 +47,7 @@ For the future improvement, exploration of more hyperparameters in the regressio
 | Name              |                    Contributions                     |
 |---|:---:|
 | Beh Jia Jiunn |  contributions|      
-|  Tan Wu Ji |   contributions |
+|  Tan Wu Ji |   XGBOOST Regression |
 | name |  contributions|
 ## References ##
 1. https://www.geeksforgeeks.org/xgboost/?ref=rp

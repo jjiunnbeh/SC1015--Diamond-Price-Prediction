@@ -27,11 +27,16 @@ clarity  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, V
  y  : width in mm
 
  z  : depth in mm
+ 
 ## Models Used ##
 1. Linear Regression
 2. Random Forest Regression (3 versions) with hyperparameter tuning
 3. XGBoost Regressions (3 versions) with hyperparameter tuning
+
 ## Conclusion ##
+In conclusion, we have faced different limitations thorughout the preparation of this project. The large dataset used in this project is difficult to observe in detail. Hence, with the proper use of different graphs and plots, the details can be clearly understood such as the spread of data, trend of data and relationship between the variables. Beside, the dataset contains a lot of categorical data, which limits the implementation of regression in the training process. By implementing label encoding, the categorical data is converted to numerical data, which can be used in the regression model as well. 
+
+For the future improvement, exploration of more hyperparameters in the regression model is importatnt to further optimize the training model performance. More predictors such as the dimension of diamond should be included in the training process if the information about the predictors are more readily accessible to the customer in the future.
 
 ## What did we learn? ##
 ## Contributors ##

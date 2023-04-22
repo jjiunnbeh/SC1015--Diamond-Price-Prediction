@@ -7,25 +7,25 @@ Therefore, we are going to design and implement a prediction model for people to
 
 ## The available features are: ##
 
- price : USD price
+ **price** : USD price
 
- carat : weight of the diamond --> 1 carat equals 0.2 grams
+ **carat** : weight of the diamond --> 1 carat equals 0.2 grams
 
- cut  : quality of the cut (Fair, Good, Very Good, Premium, Ideal)
+ **cut**  : quality of the cut (Fair, Good, Very Good, Premium, Ideal)
 
- color  : diamond colour, from J (worst) to D (best)
+ **color**  : diamond colour, from J (worst) to D (best)
 
-clarity  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
+**clarity**  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
 
- depth : measure of the depth in relation to the width of the diamond’s table, calculated as --> Depth (%) = Depth (mm) / Diameter (mm)
+ **depth** : measure of the depth in relation to the width of the diamond’s table, calculated as --> Depth (%) = Depth (mm) / Diameter (mm)
 
- table  : top facet of the stone; table percentage is the ratio between the table size and the diameter of the diamond
+ **table**  : top facet of the stone; table percentage is the ratio between the table size and the diameter of the diamond
 
- x  : length in mm
+ **x**  : length in mm
 
- y  : width in mm
+ **y**  : width in mm
 
- z  : depth in mm
+ **z**  : depth in mm
  
 ## Models Used ##
 1. Linear Regression

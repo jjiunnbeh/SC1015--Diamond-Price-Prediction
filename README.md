@@ -53,4 +53,4 @@ For the future improvement, exploration of more hyperparameters in the regressio
 1. https://www.geeksforgeeks.org/xgboost/?ref=rp
 2. https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
 3. https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
-4. https://www.google.com/url?sa=i&url=https%3A%2F%2F4cs.gia.edu%2Fen-us%2Fdiamond-color%2F&psig=AOvVaw0uTJml8ZOlv81WU_6fbVme&ust=1681563940976000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiV8f23qf4CFQAAAAAdAAAAABAE
+4. https://www.google.com/url?sa=i&url=https%3A%2F%2Fshira-diamonds.com%2Fabout%2Feducation%2F4-cs%2F&psig=AOvVaw0CvIIu9JN7Jp9fQah4xqEq&ust=1681557532936000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCD_Y6gqf4CFQAAAAAdAAAAABAE

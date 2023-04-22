@@ -7,25 +7,25 @@ Therefore, we are going to design and implement a prediction model for people to
 
 ## The available features are: ##
 
- **price** : USD price
+ price : USD price
 
- **carat** : weight of the diamond --> 1 carat equals 0.2 grams
+ carat : weight of the diamond --> 1 carat equals 0.2 grams
 
- **cut**  : quality of the cut (Fair, Good, Very Good, Premium, Ideal)
+ cut  : quality of the cut (Fair, Good, Very Good, Premium, Ideal)
 
- **color**  : diamond colour, from J (worst) to D (best)
+ color  : diamond colour, from J (worst) to D (best)
 
-**clarity**  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
+clarity  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
 
- **depth** : measure of the depth in relation to the width of the diamond’s table, calculated as --> Depth (%) = Depth (mm) / Diameter (mm)
+ depth : measure of the depth in relation to the width of the diamond’s table, calculated as --> Depth (%) = Depth (mm) / Diameter (mm)
 
- **table**  : top facet of the stone; table percentage is the ratio between the table size and the diameter of the diamond
+ table  : top facet of the stone; table percentage is the ratio between the table size and the diameter of the diamond
 
- **x**  : length in mm
+ x  : length in mm
 
- **y**  : width in mm
+ y  : width in mm
 
- **z**  : depth in mm
+ z  : depth in mm
  
 ## Models Used ##
 1. Linear Regression
@@ -35,19 +35,25 @@ Therefore, we are going to design and implement a prediction model for people to
 ## Conclusion ##
 In conclusion, we have faced different limitations thorughout the preparation of this project. The large dataset used in this project is difficult to observe in detail. Hence, with the proper use of different graphs and plots, the details can be clearly understood such as the spread of data, trend of data and relationship between the variables. Beside, the dataset contains a lot of categorical data, which limits the implementation of regression in the training process. By implementing label encoding, the categorical data is converted to numerical data, which can be used in the regression model as well. 
 
-For the future improvement, exploration of more hyperparameters in the regression model is importatnt to further optimize the training model performance. More predictors such as the dimension of diamond should be included in the training process if the information about the predictors are more readily accessible to the customer in the future.
+Based on different performace metrics(RMSE and R^2) to predict the accuracy of our models, we found out that Random Forest Regression (V3) is the most accurate model which can predict the price of diamond. 
+
+The customers who are purchasing diamonds will be able to use the UI developed based on our best machine learning model to predict the price of diamonds they are going to purchase and determine if the price set by the diamond sellers are similar to the price predicted. 
+
+Thus, we can avoid customers overpaying for diamonds. With that, we believe that our project has somewhat developed a solution which can be used in partical terms.
+
+For the future improvement, exploration of more hyperparameters in the regression model is importatnt to further optimize the training model performance. More predictors such as the dimension of diamond should be included in the training process if the information about the predictors are more readily accessible to the customer in the future. In reality, the dataset might be too clean with very little outliers and null values which might have made our machine learning prcocesses slightly easier. 
 
 ## What did we learn? ##
 - How to use github to collaborate with other peers in a team project
 - Solve real world problems using proper real world related dataset
-- Perform regression model which is not cover in class
+- Perform regression model which is not covered in class (XGBoost)
 - Proper tuning of hyperparameter to avoid overfitting or underfitting
 - Program a User Interface (UI) to easily estimate the diamond price
 ## Contributors ##
 | Name              |                    Contributions                     |
-|---|:---:|
-| Beh Jia Jiunn | Data Cleaning, EDA|      
-|  Tan Wu Ji |   XGBOOST Regression, Prediction |
+|Selvakumar Karthik Adharsh|Label Encoding,Linear and Random Forest Regression|
+| Beh Jia Jiunn |  contributions|      
+|  Tan Wu Ji |   XGBOOST Regression |
 | name |  contributions|
 ## References ##
 1. https://www.geeksforgeeks.org/xgboost/?ref=rp

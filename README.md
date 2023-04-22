@@ -1,4 +1,4 @@
-# SC1015 Mini Project : Predicting the price of diamond
+# SC1015 Mini Project : Diamond Price Prediction
 
 ## Predicitng Price of Diamond prices for general public looking to buy diamonds ## 
 In general, people have limited knowledge about the prices of diamonds and diamond sellers capitalize on this by selling diamonds with unfair prices. 
@@ -43,6 +43,7 @@ For the future improvement, exploration of more hyperparameters in the regressio
 - Solve real world problems using proper real world related dataset
 - Perform regression model which is not cover in class
 - Proper tuning of hyperparameter to avoid overfitting or underfitting
+- Program a User Interface (UI) to easily estimate the diamond price
 ## Contributors ##
 | Name              |                    Contributions                     |
 |---|:---:|

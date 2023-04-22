@@ -39,6 +39,10 @@ In conclusion, we have faced different limitations thorughout the preparation of
 For the future improvement, exploration of more hyperparameters in the regression model is importatnt to further optimize the training model performance. More predictors such as the dimension of diamond should be included in the training process if the information about the predictors are more readily accessible to the customer in the future.
 
 ## What did we learn? ##
+- How to use github to collaborate with other peers in a team project
+- Solve real world problems using proper real world related dataset
+- Perform regression model which is not cover in class
+- Proper tuning of hyperparameter to avoid overfitting or underfitting
 ## Contributors ##
 | Name              |                    Contributions                     |
 |---|:---:|

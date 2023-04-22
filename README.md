@@ -7,7 +7,6 @@ Therefore, we are going to design and implement a prediction model for people to
 
 ## The available features are: ##
 
-**Here are the description of the features in our dataset.**
 
 PRICE : Diamond price in USD
 

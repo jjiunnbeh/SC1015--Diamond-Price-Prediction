@@ -55,7 +55,7 @@ For the future improvement, exploration of more hyperparameters in the regressio
 |---|:---:|
 |Selvakumar Karthik Adharsh | Label Encoding,Linear and Random Forest Regression, Presentation Slides, Video Presentation |
 | Beh Jia Jiunn | Data Preparation, Exploratory Data Analysis, Presentation Slides, Video Presentation, |      
-|  Tan Wu Ji |   XGBOOST Regression, Presentation Slides, Video Presentation |
+|  Tan Wu Ji |   XGBOOST Regression, Prediction UI, Presentation Slides, Video Presentation |
 
 ## References ##
 1. https://www.geeksforgeeks.org/xgboost/?ref=rp

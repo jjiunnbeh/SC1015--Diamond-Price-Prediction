@@ -28,7 +28,11 @@ clarity  : measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, V
 
  z  : depth in mm
 ## Models Used ##
+1. Linear Regression
+2. Random Forest Regression (3 versions) with hyperparameter tuning
+3. XGBoost Regressions (3 versions) with hyperparameter tuning
 ## Conclusion ##
+
 ## What did we learn? ##
 ## Contributors ##
 | Name              |                    Contributions                     |

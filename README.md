@@ -50,11 +50,11 @@ For the future improvement, exploration of more hyperparameters in the regressio
 - Proper tuning of hyperparameter to avoid overfitting or underfitting
 - Program a User Interface (UI) to easily estimate the diamond price
 ## Contributors ##
-| Name              |                    Contributions                     |
+| Name |  Contributions|
 |Selvakumar Karthik Adharsh|Label Encoding,Linear and Random Forest Regression|
 | Beh Jia Jiunn |  contributions|      
 |  Tan Wu Ji |   XGBOOST Regression |
-| name |  contributions|
+
 ## References ##
 1. https://www.geeksforgeeks.org/xgboost/?ref=rp
 2. https://shira-diamonds.com/about/education/4-cs/

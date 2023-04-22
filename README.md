@@ -50,3 +50,7 @@ For the future improvement, exploration of more hyperparameters in the regressio
 |  Tan Wu Ji |   contributions |
 | name |  contributions|
 ## References ##
+1. https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
+2. https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
+3. https://www.geeksforgeeks.org/xgboost/?ref=rp
+4. https://www.google.com/url?sa=i&url=https%3A%2F%2F4cs.gia.edu%2Fen-us%2Fdiamond-color%2F&psig=AOvVaw0uTJml8ZOlv81WU_6fbVme&ust=1681563940976000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJiV8f23qf4CFQAAAAAdAAAAABAE

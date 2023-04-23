@@ -99,7 +99,7 @@ For the future improvement, exploration of more hyperparameters in the regressio
 4. Diamond Colour:          https://4cs.gia.edu/en-us/diamond-color/
 5. Diamond Clarity:         https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
 6. Diamond Report:          https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
-7. Random Forest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+7. Random Forest:           https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 8. XGBOOST:                 https://www.geeksforgeeks.org/xgboost/?ref=rp
 
 

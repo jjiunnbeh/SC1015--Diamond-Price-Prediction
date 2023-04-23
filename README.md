@@ -12,8 +12,7 @@ We will be focusing on an diamond price predictor in this project.
 
 Here is the walkthrough of our project.
 
-1. Data Collection, Data Cleaning
-2. Exploratory Data Analysis and Visualization
+1. Data Collection, Data Cleaning, Exploratory Data Analysis and Visualization : [Mini Project - Sample Collection, Data Cleaning + EDA](Mini Project - Sample Collection, Data Cleaning + EDA.ipynb)
 3. Model Building
 4. Machine Learning
 

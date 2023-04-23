@@ -81,9 +81,11 @@ For the future improvement, exploration of more hyperparameters in the regressio
 ## What did we learn? ##
 - How to use github to collaborate with other peers in a team project
 - Solve real world problems using proper real world related dataset
+- Use of Label Encoding to convert ordinal data of categorical variables into numeric values
 - Perform regression model which is not covered in class (XGBoost)
 - Proper tuning of hyperparameter to avoid overfitting or underfitting
 - Program a User Interface (UI) to easily estimate the diamond price
+
 ## Contributors ##
 | Name              |                    Contributions                     |
 |---|:---:|

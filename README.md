@@ -27,18 +27,17 @@ Thus, this project can help diamond buyers to estimate the price of the diamond 
 The objective of this project is to develop a machine learning model that can predict the price of diamonds based on their attributes for the diamond buyers. The model should be able to accurately predict diamond prices, considering multiple factors and providing an objective and consistent pricing strategy.
 
 
-Problem Definition: Our Group is set out to explore the prediction of diamond price based on the attributes of the diamond(carat, colour, clarity, cut , depth and table). 
+Problem Definition: Our group is set out to explore the prediction of diamond price based on the attributes of the diamond(carat, colour, clarity, cut , depth and table). 
 
-Sub-problem: How does the attributes help to decide the price of diamonds in the market?.
+Sub-problem: How does the attributes help to decide the price of diamonds in the market?
 
 We are planning to create a diamond price predictor for the general customers to use as well.
 
+Our dataset is extracted from Kaggle, the dataset can be acessed using this link.
 
 
 
-
-
-## The available features are: ##
+## The available features in our data set are: ##
 
 
 PRICE : Diamond price in USD

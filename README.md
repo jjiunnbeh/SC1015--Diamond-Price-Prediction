@@ -2,7 +2,7 @@
 
 ## Predicting Price of Diamonds for Public Looking to Buy Diamonds ## 
 In general, people have limited knowledge about the prices of diamonds and diamond sellers capitalise on this by selling diamonds with unfair and unreasonable prices. 
-Therefore, we are going to design and implement a prediction model for people to predict the prices of diamonds based on the **4Cs (colour, clarity , cut , carat)** . With that, people can have a better understanding on the prices of diamonds depends on the quality of 4Cs and they can have a reliable indicator or estimation on the diamond prices before purchasing to ensure they have purchased the diamonds at a fair price.
+Therefore, we are going to design and implement a prediction model for people to predict the prices of diamonds based on the **4Cs (Colour, Clarity , Cut , Carat)** . With that, people can have a better understanding on the prices of diamonds depends on the quality of 4Cs and they can have a reliable indicator or estimation on the diamond prices before purchasing to ensure they have purchased the diamonds at a fair price.
 
 
 ## The available features are: ##

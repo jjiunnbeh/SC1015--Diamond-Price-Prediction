@@ -1,6 +1,6 @@
 # SC1015 Mini Project : Diamond Price Prediction
 
-
+![diamond picture.jpg](dataset/diamond picture.jpg)
 
 ## Predicting Price of Diamonds for Public Looking to Buy Diamonds ## 
 In general, people have limited knowledge about the prices of diamonds and diamond sellers capitalise on this by selling diamonds with unfair and unreasonable prices. 

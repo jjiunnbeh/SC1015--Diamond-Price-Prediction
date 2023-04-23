@@ -1,7 +1,7 @@
 # SC1015 Mini Project : Diamond Price Prediction
 
-![Diamond Picture](Dataset/diamonds.jpg)
-<img src="Dataset/diamonds.jpg" alt="Diamond Picture" width="300"/>
+
+<img src="Dataset/diamonds.jpg" alt="Diamond Picture" width="500"/>
 
 
 ## Predicting Price of Diamonds for Public Looking to Buy Diamonds ## 

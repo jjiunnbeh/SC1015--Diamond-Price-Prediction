@@ -17,14 +17,26 @@ Here is the walkthrough of our project.
 3. Model Building
 4. Machine Learning
 
+## Problem Formulation ##
+
+#### Practical Motivation ####
+
+Nowadays, people have limited knowledge about the prices of diamonds and diamond sellers capitalise on this by selling diamonds with unfair and unreasonable prices.
+
+Thus, this project can help diamond buyers to estimate the price of the diamond using the attributes that best predict the price of a diamond.The diamond industry is highly competitive and relies on accurate and timely pricing information. The prices of diamonds depend on various factors such as carat weight, cut, clarity, and colour, making it challenging to accurately predict the price. 
+
+The objective of this project is to develop a machine learning model that can predict the price of diamonds based on their attributes for the diamond buyers. The model should be able to accurately predict diamond prices, considering multiple factors and providing an objective and consistent pricing strategy.
 
 
-## Predicting Price of Diamonds for Public Looking to Buy Diamonds ## 
-In general, people have limited knowledge about the prices of diamonds and diamond sellers capitalise on this by selling diamonds with unfair and unreasonable prices.
+Problem Definition: Our Group is set out to explore the prediction of diamond price based on the attributes of the diamond(carat, colour, clarity, cut , depth and table). 
 
-Therefore, we are going to design and implement a prediction model for people to predict the prices of diamonds based on the **4Cs (Colour, Clarity , Cut , Carat)** .
+Sub-problem: How does the attributes help to decide the price of diamonds in the market?.
 
-With that, people can have a better understanding on the prices of diamonds depends on the quality of 4Cs and they can have a reliable indicator or estimation on the diamond prices before purchasing to ensure they have purchased the diamonds at a fair price.
+We are planning to create a diamond price predictor for the general customers to use as well.
+
+
+
+
 
 
 ## The available features are: ##

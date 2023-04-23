@@ -5,7 +5,9 @@
 </p>
 
 
-## About this project ##
+## About This project ##
+This is a Mini-Project for the SC1015 (Introduction to Data Science and Artificial Intelligence) offered by the Nanyang Technological University, Singapore  during the AY22/23 Semester 2.
+
 
 
 ## Predicting Price of Diamonds for Public Looking to Buy Diamonds ## 

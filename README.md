@@ -17,7 +17,7 @@ Here is the walkthrough of our project.
 3. Model Building
 4. Machine Learning
 
-This project includes 2 notebooks in the xxx file, which cover all the walkthrough mentioned above.
+This project includes 2 notebooks, which cover all the walkthrough mentioned above.
 ## Problem Formulation ##
 
 #### Practical Motivation ####

@@ -33,7 +33,7 @@ Sub-problem: How does the attributes help to decide the price of diamonds in the
 
 We are planning to create a diamond price predictor for the general customers to use as well.
 
-Our dataset is extracted from Kaggle, the dataset can be found [here](https://github.com/jjiunnbeh/SC1015_C133_Team2/blob/5b9867094d690015a24ad3ac25284e4cc32fb072/Dataset/Diamonds%20Prices2022.csv).
+Our dataset is extracted from [Kaggle: Diamond Prices](https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices), the dataset can be found [here](https://github.com/jjiunnbeh/SC1015_C133_Team2/blob/5b9867094d690015a24ad3ac25284e4cc32fb072/Dataset/Diamonds%20Prices2022.csv).
 
 
 

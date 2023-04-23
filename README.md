@@ -1,5 +1,7 @@
 # SC1015 Mini Project : Diamond Price Prediction
 
+
+
 ## Predicting Price of Diamonds for Public Looking to Buy Diamonds ## 
 In general, people have limited knowledge about the prices of diamonds and diamond sellers capitalise on this by selling diamonds with unfair and unreasonable prices. 
 Therefore, we are going to design and implement a prediction model for people to predict the prices of diamonds based on the **4Cs (Colour, Clarity , Cut , Carat)** . With that, people can have a better understanding on the prices of diamonds depends on the quality of 4Cs and they can have a reliable indicator or estimation on the diamond prices before purchasing to ensure they have purchased the diamonds at a fair price.
@@ -64,5 +66,5 @@ For the future improvement, exploration of more hyperparameters in the regressio
 4. https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
 5. https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
 6. https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
-7. https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#:~:text=A%20random%20forest%20regressor.,accuracy%20and%20control%20over%2Dfitting.
-8. https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
+7.https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#:~:text=A%20random%20forest%20regressor.,accuracy%20and%20control%20over%2Dfitting.
+

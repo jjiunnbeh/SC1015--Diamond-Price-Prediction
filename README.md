@@ -92,11 +92,16 @@ For the future improvement, exploration of more hyperparameters in the regressio
 |  Tan Wu Ji |   XGBOOST Regression, Prediction UI, Presentation Slides, Video Presentation |
 
 ## References ##
-1. XGBOOST:          https://www.geeksforgeeks.org/xgboost/?ref=rp
-2. Diamond 4C's:     https://shira-diamonds.com/about/education/4-cs/ 
-3. Diamond Colour:   https://4cs.gia.edu/en-us/diamond-color/
-4. Diamond Clarity:  https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
-5. Diamond Report:   https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
-6. Source:        https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
-7. Random Forest: [https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#:~:text=A%20random%20forest%20regressor.,accuracy%20and%20control%20over%2Dfitting.](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+1. Kaggle : Diamond Prices: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
+2. Source:                  https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
+4. Diamond 4C's:            https://shira-diamonds.com/about/education/4-cs/ 
+5. Diamond Colour:          https://4cs.gia.edu/en-us/diamond-color/
+6. Diamond Clarity:         https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
+7. Diamond Report:          https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
+9. Random Forest: [https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#:~:text=A%20random%20forest%20regressor.,accuracy%20and%20control%20over%2Dfitting.](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+9. XGBOOST:                 https://www.geeksforgeeks.org/xgboost/?ref=rp
+
+
+
+
 

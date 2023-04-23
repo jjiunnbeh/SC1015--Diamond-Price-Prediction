@@ -92,14 +92,15 @@ For the future improvement, exploration of more hyperparameters in the regressio
 |  Tan Wu Ji |   XGBOOST Regression, Prediction UI, Presentation Slides, Video Presentation |
 
 ## References ##
-1. Kaggle : Diamond Prices: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
-2. Source:                  https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
-4. Diamond 4C's:            https://shira-diamonds.com/about/education/4-cs/ 
-5. Diamond Colour:          https://4cs.gia.edu/en-us/diamond-color/
-6. Diamond Clarity:         https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
-7. Diamond Report:          https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
-9. Random Forest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
-9. XGBOOST:                 https://www.geeksforgeeks.org/xgboost/?ref=rp
+
+1. Source:                  https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
+2. Kaggle : Diamond Prices: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
+3. Diamond 4C's:            https://shira-diamonds.com/about/education/4-cs/ 
+4. Diamond Colour:          https://4cs.gia.edu/en-us/diamond-color/
+5. Diamond Clarity:         https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
+6. Diamond Report:          https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
+7. Random Forest: https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+8. XGBOOST:                 https://www.geeksforgeeks.org/xgboost/?ref=rp
 
 
 

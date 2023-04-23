@@ -1,6 +1,6 @@
 # SC1015 Mini Project : Diamond Price Prediction
 
-![Diamond Picture](Dataset/diamond picture.jpg)
+![Diamond Picture](Dataset/diamonds picture.jpg)
 
 
 ## Predicting Price of Diamonds for Public Looking to Buy Diamonds ## 

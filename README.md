@@ -49,8 +49,6 @@ X : Length in mm
 Y : Width in mm
 
 Z : Depth in mm
-
-### Label Encoding done to assign numerical values to classes of our categorical variables ###
  
 ## Models Used ##
 1. Linear Regression
@@ -61,8 +59,6 @@ Z : Depth in mm
 In conclusion, we have faced different limitations thorughout the preparation of this project. The large dataset used in this project is difficult to observe in detail. Hence, with the proper use of different graphs and plots, the details can be clearly understood such as the spread of data, trend of data and relationship between the variables. Beside, the dataset contains a lot of categorical data, which limits the implementation of regression in the training process. By implementing label encoding, the categorical data is converted to numerical data, which can be used in the regression model as well. 
 
 Based on different performace metrics(RMSE and R^2) to predict the accuracy of our models, we found out that Random Forest Regression (V3) is the most accurate model which can predict the price of diamond. 
-
-## How the people can benefit form our project? ##
 
 The customers who are purchasing diamonds will be able to use the UI developed based on our best machine learning model to predict the price of diamonds they are going to purchase and determine if the price set by the diamond sellers are similar to the price predicted. 
 
@@ -84,11 +80,11 @@ For the future improvement, exploration of more hyperparameters in the regressio
 |  Tan Wu Ji |   XGBOOST Regression, Prediction UI, Presentation Slides, Video Presentation |
 
 ## References ##
-1. https://www.geeksforgeeks.org/xgboost/?ref=rp
-2. https://shira-diamonds.com/about/education/4-cs/
-3. https://4cs.gia.edu/en-us/diamond-color/
-4. https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
-5. https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
-6. https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
-7.https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#:~:text=A%20random%20forest%20regressor.,accuracy%20and%20control%20over%2Dfitting.
+1. XGBOOST:          https://www.geeksforgeeks.org/xgboost/?ref=rp
+2. Diamond 4C's:     https://shira-diamonds.com/about/education/4-cs/ 
+3. Diamond Colour:   https://4cs.gia.edu/en-us/diamond-color/
+4. Diamond Clarity:  https://www.onlinediamondbuyingadvice.com/diamond-education/diamond-clarity/
+5. Diamond Report:   https://bnsec.bluenile.com/bnsecure/certs/LD13571559/GIA?country=USA&language=en-us
+6. Source:             https://www.globenewswire.com/news-release/2014/12/09/689825/10111532/en/NEW-STUDY-Americans-Overpaying-by-as-Much-as-72-for-an-Engagement-Ring.html
+7.Random Forest: https://scikitlearn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html#:~:text=A%20random%20forest%20regressor.,accuracy%20and%20control%20over%2Dfitting.
 

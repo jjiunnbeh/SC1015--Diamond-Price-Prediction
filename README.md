@@ -49,6 +49,8 @@ X : Length in mm
 Y : Width in mm
 
 Z : Depth in mm
+
+### Label Encoding done to assign numerical values to classes of our categorical variables ###
  
 ## Models Used ##
 1. Linear Regression
@@ -59,6 +61,8 @@ Z : Depth in mm
 In conclusion, we have faced different limitations thorughout the preparation of this project. The large dataset used in this project is difficult to observe in detail. Hence, with the proper use of different graphs and plots, the details can be clearly understood such as the spread of data, trend of data and relationship between the variables. Beside, the dataset contains a lot of categorical data, which limits the implementation of regression in the training process. By implementing label encoding, the categorical data is converted to numerical data, which can be used in the regression model as well. 
 
 Based on different performace metrics(RMSE and R^2) to predict the accuracy of our models, we found out that Random Forest Regression (V3) is the most accurate model which can predict the price of diamond. 
+
+## How the people can benefit form our project? ##
 
 The customers who are purchasing diamonds will be able to use the UI developed based on our best machine learning model to predict the price of diamonds they are going to purchase and determine if the price set by the diamond sellers are similar to the price predicted. 
 

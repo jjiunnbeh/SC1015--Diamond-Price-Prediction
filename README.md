@@ -1,4 +1,4 @@
-# SC1015 Mini Project : Diamond Price Prediction
+# SC1015 Data Science and Artificial Intelligence Project : Diamond Price Prediction
 
 <p align="center">
   <img src="Dataset/diamonds.jpg" alt="Diamond Picture" width="800"/>
@@ -6,7 +6,7 @@
 
 
 ## About This Project ##
-This is a Mini-Project for the SC1015 (Introduction to Data Science and Artificial Intelligence) offered by the Nanyang Technological University, Singapore  during the AY22/23 Semester 2.
+This is a course project for the SC1015 (Introduction to Data Science and Artificial Intelligence) offered by the Nanyang Technological University, Singapore  during the AY22/23 Semester 2.
  
 We will be focusing on a diamond price predictor in this project.
 
